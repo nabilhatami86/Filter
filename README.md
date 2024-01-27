@@ -13,3 +13,4 @@ Algoritma peningkatan kecerahan.
 Implementasi pada gambar menggunakan bahasa pemrograman tertentu (misalnya Python).
 🖼️ Contoh Hasil:
 Berikut adalah contoh perbandingan gambar sebelum dan setelah pengolahan citra:![enhanced_te](https://github.com/nabilhatami86/FilterImage/assets/132873660/77052479-eb37-46fc-bb8b-d812f2cb95ff)
+![text](https://github.com/nabilhatami86/FilterImage/assets/132873660/faa5d25c-fdce-446d-ae21-8c65ff066fd6)
